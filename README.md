@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tomás Buzzalino</h1>
 <div align="center">
 <img src="header.png" align="center" style="width: 60%" "height : 50%" />
 </div>  
