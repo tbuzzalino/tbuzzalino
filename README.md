@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomás Buzzalino</h1>
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" "height : 50%" />
+<img src="header.pgn" align="center" style="width: 60%" "height : 50%" />
 </div>  
   
 
