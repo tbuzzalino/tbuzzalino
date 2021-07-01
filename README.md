@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tomás Buzzalino FullStack Developer 🚀</div>  
+### <div align="center">I'm Tomás Buzzalino Full Stack Developer 🚀</div>  
 
   
 
